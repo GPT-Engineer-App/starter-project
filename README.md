@@ -1,2 +1,3 @@
 - 2024-06-20: Installed all shadcn components with `npx shadcn-ui@latest add` then selecting all components.
 - There's a script to update example usage from their docs
+- Go nuts
